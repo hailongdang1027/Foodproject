@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "862365890630",
+    "firebase_url": "https://myorderfoods-adbfa-default-rtdb.firebaseio.com",
+    "project_id": "myorderfoods-adbfa",
+    "storage_bucket": "myorderfoods-adbfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862365890630:android:8435ef6769e0a42bd7f247",
+        "android_client_info": {
+          "package_name": "com.example.myfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862365890630-ch3khml66b5jjs46scsh553adu6ne007.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZF8TF9rs0h4ZFsjJfxFh0f4WQSs9oDio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862365890630-ch3khml66b5jjs46scsh553adu6ne007.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862365890630:android:21a8eb72f6ccf36ed7f247",
+        "android_client_info": {
+          "package_name": "com.example.mymanagementfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862365890630-tr19adqqsr16rkejjg64dtpodnbmrbid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymanagementfoods",
+            "certificate_hash": "0476d1d2bc6349784d3ad625becb1b0ee9cd1427"
+          }
+        },
+        {
+          "client_id": "862365890630-ch3khml66b5jjs46scsh553adu6ne007.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZF8TF9rs0h4ZFsjJfxFh0f4WQSs9oDio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862365890630-ch3khml66b5jjs46scsh553adu6ne007.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

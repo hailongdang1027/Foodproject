@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_baseline_restaurant_24"
+            android:iconTint="@color/white"
+            android:title="Menu"/>
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="Cart"/>
+
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_baseline_favorite_24"
+            android:iconTint="@color/white"
+            android:title="Favorites"/>
+
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_baseline_access_time_24"
+            android:title="Orders"/>
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Settings"/>
+
+        <item
+            android:id="@+id/nav_change_pwd"
+            android:icon="@drawable/ic_baseline_security_24"
+            android:title="Change password"
+            android:iconTint="@color/white"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="Sign out"/>
+    </group>
+
+
+</menu>
